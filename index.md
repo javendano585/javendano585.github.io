@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### [TidyTuesday](https://github.com/javendano585/TidyTuesday)
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/javendano585/TidyTuesday)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
