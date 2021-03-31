@@ -15,5 +15,5 @@ minima:
     twitter: JaimeAAvendano
     github:  javendano585
   
-theme: jekyll-theme-minimal
+theme: jekyll
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
