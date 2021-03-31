@@ -3,6 +3,7 @@ logo: "/images/Jaime.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Experienced developer transitioning into a Data Science role.
   <br><br>
+  
   <a href="https://www.linkedin.com/in/jaimeavendano">View My LinkedIn Profile</a><br>
   <a href="https://www.kaggle.com/javendano585">View My Kaggle Profile</a><br>
   <a href="https://twitter.com/JaimeAAvendano">Follow me on Twitter</a><br>
@@ -16,4 +17,5 @@ minima:
     github:  javendano585
   
 theme: jekyll-theme-minimal
+twitter_username: JaimeAAvendano
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
