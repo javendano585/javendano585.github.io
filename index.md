@@ -41,7 +41,7 @@ Google Data Analytics Professional Certificate - 5/8 courses completed
  - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
  - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/LGDN2JNTXYAQ)
  - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
- - Share Data Through the Art of Visualization: Coming soon!
+ - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
  - Data Analysis with R Programming: Coming soon!
  - Google Data Analytics Capstone: Complete a Case Study: Coming soon!
 
