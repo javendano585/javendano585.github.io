@@ -35,7 +35,7 @@ UCSanDiego Data Science Micromasters - 3/4 courses completed
  - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
  - DSE230x: Coming soon!
 
-Google Data Analytics Professional Certificate - 5/8 courses completed
+Google Data Analytics Professional Certificate - 6/8 courses completed
  - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
  - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
  - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
