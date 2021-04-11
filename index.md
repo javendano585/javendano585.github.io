@@ -28,6 +28,13 @@ Transfer learning used to create a simple image classifier.
 
 ---
 
+## NFL Data
+2020 Passing yards - Analysis  
+[nbviewer](https://nbviewer.jupyter.org/github/javendano585/NFL_Data/blob/main/NFL_Passing.ipynb)  
+[Altair interactive chart](https://javendano585.github.io/NFL_Data/Passing_2020.html)  
+
+---
+
 # Certificates
 UCSanDiego Data Science Micromasters - 3/4 courses completed
  - [DSE200: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
