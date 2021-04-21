@@ -50,7 +50,7 @@ Google Data Analytics Professional Certificate - 7/8 courses completed
  - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
  - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
  - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
- - Google Data Analytics Capstone: Complete a Case Study: Coming soon!
+ - Google Data Analytics Capstone: Complete a Case Study: In progress!
  - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
 
 
