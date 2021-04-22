@@ -1,5 +1,9 @@
 # Portfolio
 
+## About Me
+I'm an programmer and analyst, with over a decade of professional experience.  
+My work has primarily been in the Healthcare IT space, but I welcome any challenge!
+
 ---
 
 ## [TidyTuesday](https://github.com/javendano585/TidyTuesday)
