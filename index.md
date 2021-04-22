@@ -34,15 +34,17 @@ Transfer learning used to create a simple image classifier.
 [Altair interactive chart](https://javendano585.github.io/NFL_Data/Passing_2020.html)  
 
 ---
+# Education
+Bachelor's in Computer Engineering (2007, University of Rhode Island)
 
 # Certificates
 UCSanDiego Data Science Micromasters - 3/4 courses completed
  - [DSE200: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
  - [DSE210x: Probability and Statistics in Data Science using Python](https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97)
  - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
- - DSE230x: Coming soon!
+ - DSE230x: Big Data Analytics Using Spark - In progress!
 
-Google Data Analytics Professional Certificate - 7/8 courses completed
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
  - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
  - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
  - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
@@ -50,8 +52,8 @@ Google Data Analytics Professional Certificate - 7/8 courses completed
  - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
  - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
  - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
- - Google Data Analytics Capstone: Complete a Case Study: In progress!
- - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
+ - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
+   - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
 
 
 
