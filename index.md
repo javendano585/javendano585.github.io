@@ -1,8 +1,26 @@
 # Portfolio
 
 ## About Me
-I'm an programmer and analyst, with over a decade of professional experience.  
+I'm an programmer analyst with over a decade of professional experience.  
 My work has primarily been in the Healthcare IT space, but I welcome any challenge!
+
+---
+
+## Machine Learning
+Python: scikit-learn, pandas, seaborn, xgboost  
+- [Music Genre Classification](https://www.kaggle.com/javendano585/music-genre-forests)
+- [Bank SVM - nbviewer](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Bank%20Customers.ipynb)  
+- [Credit Card Fraud - Naive Bayes](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Credit%20Card%20Fraud.ipynb)
+
+R: tidyverse, vtreat, ggplot2
+- [House Prices Regression](https://www.kaggle.com/javendano585/house-prices-analysis)
+---
+
+## Fast.ai
+Fast.ai is a deep learning framework built around PyTorch  
+
+[Penguin Image Classification](https://github.com/javendano585/penguin_voila)  
+Transfer learning used to create a simple image classifier.
 
 ---
 
@@ -22,13 +40,6 @@ This was a recreation of one of Du Bois' visualizations.
 [2021 - Week 2 - Transit Cost Project](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_02)  
 The one that started it all. A simple scatter plot that helped welcome me to a great community.  
 <img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_02/2021_W02.png?raw=true"/>
-
----
-
-## Fast.ai
-
-[Penguin Image Classification](https://github.com/javendano585/penguin_voila)  
-Transfer learning used to create a simple image classifier.
 
 ---
 
