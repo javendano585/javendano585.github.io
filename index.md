@@ -7,12 +7,22 @@ My work has primarily been in the Healthcare IT space, but I welcome any challen
 ---
 
 ## Machine Learning
-Python: scikit-learn, pandas, seaborn, xgboost  
+### Personal Project - NFL Data:  
+2020 Passing yards - Analysis  
+- [Visualization notebook](https://nbviewer.jupyter.org/github/javendano585/NFL_Data/blob/main/NFL_Passing.ipynb)  
+- [Altair interactive chart](https://javendano585.github.io/NFL_Data/Passing_2020.html)  
+  
+Salary Cap - Analysis and Regression
+- [Data wrangling and Feature Engineering notebook](https://nbviewer.jupyter.org/github/javendano585/NFL_Data/blob/main/Salary_Cap/Positional_Spending_Data.ipynb)
+- [KMeans, LinearRegression, and Decision Trees notebook](https://nbviewer.jupyter.org/github/javendano585/NFL_Data/blob/main/Salary_Cap/Positional_Spending_Analysis.ipynb)  
+
+
+### Python: scikit-learn, pandas, seaborn, xgboost  
 - [Music Genre Classification](https://www.kaggle.com/javendano585/music-genre-forests)
 - [Bank SVM - nbviewer](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Bank%20Customers.ipynb)  
 - [Credit Card Fraud - Naive Bayes](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Credit%20Card%20Fraud.ipynb)
 
-R: tidyverse, vtreat, ggplot2
+### R: tidyverse, vtreat, ggplot2
 - [House Prices Regression](https://www.kaggle.com/javendano585/house-prices-analysis)
 ---
 
