@@ -1,7 +1,8 @@
 # Portfolio
 
 ## About Me
-I'm an programmer analyst with over a decade of professional experience.  
+I'm an programmer analyst with over a decade of professional experience. I also have strong communication skills, having presented to other programming groups, leadership teams, and with public speaking events with over a thousand guests.
+  
 My work has primarily been in the Healthcare IT space, but I welcome any challenge!
 
 ---
@@ -52,12 +53,6 @@ This was a recreation of one of Du Bois' visualizations.
 
 ---
 
-## NFL Data
-2020 Passing yards - Analysis  
-[nbviewer](https://nbviewer.jupyter.org/github/javendano585/NFL_Data/blob/main/NFL_Passing.ipynb)  
-[Altair interactive chart](https://javendano585.github.io/NFL_Data/Passing_2020.html)  
-
----
 # Education
 Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
 
