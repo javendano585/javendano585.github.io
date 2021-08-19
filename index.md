@@ -13,17 +13,17 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 # Certificates
 [UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)
 <details>
-  <summary>Expand to see specific courses</summary>
+  <summary>Expand to see specific courses</summary><p>
 
  * [DSE200x: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
  * [DSE210x: Probability and Statistics in Data Science using Python](https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97)
  * [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
  * [DSE230x: Big Data Analytics Using Spark](https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42)
-</details>
+  </p></details>
   
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
 <details>
-  <summary>Expand to see specific courses and case study link</summary>
+  <summary>Expand to see specific courses and case study link</summary><p>
 
  - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
  - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
@@ -34,7 +34,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
  - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
    - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
-</details>
+  </p></details>
   
 ---
 
