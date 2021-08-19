@@ -11,7 +11,8 @@ My work has primarily been in the Healthcare IT space, but I welcome any challen
 Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
 
 # Certificates
-[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)<details>
+[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)  
+<details>
   <summary>Expand to see specific courses</summary>
 
  1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a><br>
@@ -22,7 +23,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 </details>
 
   
-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)  
 <details>
   <summary>Expand to see specific courses and case study link</summary><p>
 
