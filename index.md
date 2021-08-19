@@ -38,6 +38,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 &nbsp;&nbsp;&nbsp;<a href="https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.htm">Case Study - Fitbit Tracker Data</a><br>
                                                                                                                               
 </p></details>
+
   
 ---
 
