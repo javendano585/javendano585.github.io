@@ -22,10 +22,9 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 
 </details></p>
 
-<p>
-  
+    
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)  
-<details>
+<p><details>
   <summary>Expand to see specific courses and case study link</summary>
 
  1. <a href="https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET">Foundations: Data, Data, Everywhere</a><br>
