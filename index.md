@@ -12,7 +12,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 
 # Certificates
 [UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)  
-<details>
+<p><details>
   <summary>Expand to see specific courses</summary>
 
  1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a><br>
@@ -20,12 +20,13 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a><br>
  4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a><br>
 
-</details>
+</details></p>
 
+<p>
   
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)  
 <details>
-  <summary>Expand to see specific courses and case study link</summary><p>
+  <summary>Expand to see specific courses and case study link</summary>
 
  1. <a href="https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET">Foundations: Data, Data, Everywhere</a><br>
  2. <a href="https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW">Ask Questions to Make Data-Driven Decisions</a><br>
@@ -37,9 +38,8 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  8. <a href="https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX">Google Data Analytics Capstone: Complete a Case Study</a><br>
 &nbsp;&nbsp;&nbsp;<a href="https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.htm">Case Study - Fitbit Tracker Data</a><br>
                                                                                                                               
-</p></details>
+</details></p>
 
-  
 ---
 
 ## Machine Learning
