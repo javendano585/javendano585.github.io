@@ -15,13 +15,15 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 <details>
   <summary>Expand to see specific courses</summary><p>
 
- 1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a>
- 2. <a href="https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97">DSE210x: Probability and Statistics in Data Science using Python</a>
- 3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a>
- 4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a>
+ 1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a>  
+ 2. <a href="https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97">DSE210x: Probability and Statistics in Data Science using Python</a>  
+ 3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a>  
+ 4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a>  
 
 </p></details>
-  
+
+<br>  
+
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
 <details>
   <summary>Expand to see specific courses and case study link</summary><p>
