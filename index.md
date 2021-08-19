@@ -19,7 +19,7 @@ Salary Cap - Analysis and Regression
 
 
 ### Python: scikit-learn, pandas, seaborn, xgboost  
-- [Music Genre Classification](https://www.kaggle.com/javendano585/music-genre-forests)
+- [Music Genre Multi-class Classification](https://www.kaggle.com/javendano585/music-genre-forests)
 - [Bank SVM - nbviewer](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Bank%20Customers.ipynb)  
 - [Credit Card Fraud - Naive Bayes](https://nbviewer.jupyter.org/github/javendano585/SuperDataScience/blob/main/Machine_Learning_Bootcamp/Credit%20Card%20Fraud.ipynb)
 
@@ -32,6 +32,9 @@ Fast.ai is a deep learning framework built around PyTorch
 
 [Penguin Image Classification](https://github.com/javendano585/penguin_voila)  
 Transfer learning used to create a simple image classifier.
+
+[Cell Image Classification](https://www.kaggle.com/javendano585/fastai-cell-image-classification-95-8-acc)  
+Image classification using resnet18 architecture.
 
 ---
 
@@ -57,11 +60,11 @@ This was a recreation of one of Du Bois' visualizations.
 Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
 
 # Certificates
-UCSanDiego Data Science Micromasters - 3/4 courses completed
+[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)
  - [DSE200: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
  - [DSE210x: Probability and Statistics in Data Science using Python](https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97)
  - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
- - DSE230x: Big Data Analytics Using Spark - In progress!
+ - [DSE230x: Big Data Analytics Using Spark](https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42)
 
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
  - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
