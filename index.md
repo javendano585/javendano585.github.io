@@ -20,7 +20,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
  - [DSE230x: Big Data Analytics Using Spark](https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42)
 </details>
-
+  
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
 <details>
   <summary>Expand to see specific courses and case study link</summary>
@@ -35,7 +35,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
    - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
 </details>
-
+  
 ---
 
 ## Machine Learning
