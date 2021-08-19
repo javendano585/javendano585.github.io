@@ -15,10 +15,10 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 <details>
   <summary>Expand to see specific courses</summary><p>
 
- 1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a>  
- 2. <a href="https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97">DSE210x: Probability and Statistics in Data Science using Python</a>  
- 3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a>  
- 4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a>  
+ 1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a><br>
+ 2. <a href="https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97">DSE210x: Probability and Statistics in Data Science using Python</a><br>
+ 3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a><br>
+ 4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a><br>
 
 </p></details>
 
@@ -28,16 +28,16 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
 <details>
   <summary>Expand to see specific courses and case study link</summary><p>
 
- - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
- - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
- - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
- - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/LGDN2JNTXYAQ)
- - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
- - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
- - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
- - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
-   - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
-
+ 1. <a href="https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET">Foundations: Data, Data, Everywhere</a><br>
+ 2. <a href="https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW">Ask Questions to Make Data-Driven Decisions</a><br>
+ 3. <a href="https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6">Prepare Data for Exploration</a><br>
+ 4. <a href="https://www.coursera.org/account/accomplishments/verify/LGDN2JNTXYAQ">Process Data from Dirty to Clean</a><br>
+ 5. <a href="https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ">Analyze Data to Answer Questions</a><br>
+ 6. <a href="https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG">Share Data Through the Art of Visualization</a><br>
+ 7. <a href="https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB">Data Analysis with R Programming</a><br>
+ 8. <a href="https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX">Google Data Analytics Capstone: Complete a Case Study</a><br>
+  <a href="https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.htm">Case Study - Fitbit Tracker Data</a><br>
+                                                                                                                              
 </p></details>
   
 ---
