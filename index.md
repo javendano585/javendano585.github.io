@@ -80,10 +80,10 @@ TidyTuesday is a weekly challenge to create a visualization representing that we
 
 [2021 - Week 20 - Broadband Use](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_20)  
 <img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_20/2021_Week_20.png?raw=true" width="600"/>
----
+---  
 [2021 - Week 10 - SuperBowl Ads](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_10)  
 <img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_10/2021_Week_10.png?raw=true" width="600"/>
----
+---  
 [2021 - Week 8 - W.E.B. Du Bois Challenge](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_08)  
 This was a recreation of one of Du Bois' visualizations.  
 <img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_08/2021_Week8.png?raw=true" width="600"/>
