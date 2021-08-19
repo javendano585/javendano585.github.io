@@ -11,19 +11,17 @@ My work has primarily been in the Healthcare IT space, but I welcome any challen
 Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
 
 # Certificates
-[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)
-<details>
-  <summary>Expand to see specific courses</summary><p>
+[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)<details>
+  <summary>Expand to see specific courses</summary>
 
  1. <a href="https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a">DSE200x: Python for Data Science</a><br>
  2. <a href="https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97">DSE210x: Probability and Statistics in Data Science using Python</a><br>
  3. <a href="https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828">DSE220x: Machine Learning Fundamentals</a><br>
  4. <a href="https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42">DSE230x: Big Data Analytics Using Spark</a><br>
 
-</p></details>
+</details>
 
-<br>  
-
+  
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
 <details>
   <summary>Expand to see specific courses and case study link</summary><p>
@@ -36,7 +34,7 @@ Bachelor of Science in Computer Engineering - University of Rhode Island (2007 -
  6. <a href="https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG">Share Data Through the Art of Visualization</a><br>
  7. <a href="https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB">Data Analysis with R Programming</a><br>
  8. <a href="https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX">Google Data Analytics Capstone: Complete a Case Study</a><br>
-  <a href="https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.htm">Case Study - Fitbit Tracker Data</a><br>
+&nbsp;&nbsp;&nbsp;<a href="https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.htm">Case Study - Fitbit Tracker Data</a><br>
                                                                                                                               
 </p></details>
   
