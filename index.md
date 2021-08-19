@@ -7,6 +7,37 @@ My work has primarily been in the Healthcare IT space, but I welcome any challen
 
 ---
 
+# Education
+Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
+
+# Certificates
+[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)
+<details>
+  <summary>Expand to see specific courses</summary>
+
+ - [DSE200x: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
+ - [DSE210x: Probability and Statistics in Data Science using Python](https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97)
+ - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
+ - [DSE230x: Big Data Analytics Using Spark](https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42)
+</details>
+
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
+<details>
+  <summary>Expand to see specific courses and case study link</summary>
+
+ - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
+ - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
+ - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
+ - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/LGDN2JNTXYAQ)
+ - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
+ - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
+ - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
+ - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
+   - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
+</details>
+
+---
+
 ## Machine Learning
 ### Personal Project - NFL Data:  
 2020 Passing yards - Analysis  
@@ -39,43 +70,21 @@ Image classification using resnet18 architecture.
 ---
 
 ## [TidyTuesday](https://github.com/javendano585/TidyTuesday)
-TidyTuesday is a weekly challenge to create a visualization representing that week's dataset. The images are shared on Twitter under #TidyTuesday.
+TidyTuesday is a weekly challenge to create a visualization representing that week's dataset, hosted by [RforDataScience](https://github.com/rfordatascience/tidytuesday) community. The images are shared on Twitter under #TidyTuesday.
 [It's hosted by the RforDataScience community:](https://github.com/rfordatascience/tidytuesday)
 
 ### Some of my best work:  
 
 [2021 - Week 20 - Broadband Use](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_20)  
-<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_20/2021_Week_20.png?raw=true"/>
+<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_20/2021_Week_20.png?raw=true" width="600"/>
 ---
 [2021 - Week 10 - SuperBowl Ads](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_10)  
-<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_10/2021_Week_10.png?raw=true"/>
+<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_10/2021_Week_10.png?raw=true" width="600"/>
 ---
 [2021 - Week 8 - W.E.B. Du Bois Challenge](https://github.com/javendano585/TidyTuesday/tree/main/2021_Week_08)  
-This was a recreation of one of Du Bois' visualizations.
-<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_08/2021_Week8.png?raw=true"/>
+This was a recreation of one of Du Bois' visualizations.  
+<img src="https://github.com/javendano585/TidyTuesday/blob/main/2021_Week_08/2021_Week8.png?raw=true" width="600"/>
 
----
-
-# Education
-Bachelor of Science in Computer Engineering - University of Rhode Island (2007 - Summa cum laude)
-
-# Certificates
-[UCSanDiego Data Science Micromasters](https://credentials.edx.org/credentials/7aa27c4f943346b3865a799aacfbf27e/) - (August 2021, edX)
- - [DSE200: Python for Data Science](https://courses.edx.org/certificates/da17d8e0df364859a85181bc79ea9a2a)
- - [DSE210x: Probability and Statistics in Data Science using Python](https://courses.edx.org/certificates/d86ce6a202014fa2be6dd202fd61ae97)
- - [DSE220x: Machine Learning Fundamentals](https://courses.edx.org/certificates/d11ae755b6414c849f9fe874fc6cc828)
- - [DSE230x: Big Data Analytics Using Spark](https://courses.edx.org/certificates/aebbe00b9d7144c1b008b7a7f187af42)
-
-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/ERNRAEC8T8P4) - (April 2021, Coursera)
- - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FXWZCFTDW5ET)
- - [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/NBAWCUKFTHLW)
- - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/BJ5PT5KYBAZ6)
- - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/LGDN2JNTXYAQ)
- - [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/QXFZMPAQFZWZ)
- - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/EUVPCTJ5WNNG)
- - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/V4GBCRG3CRVB)
- - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RL6SSXP9VCZX)
-   - Case Study - [Fitbit Tracker Data](https://javendano585.github.io/Google_Data_Analytics/CaseStudy2_Bellabeat/Bellabeat_Analysis.html)
 
 
 
